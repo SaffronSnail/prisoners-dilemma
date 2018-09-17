@@ -1,0 +1,7 @@
+[package]
+name = "prisoners-dilemma"
+version = "0.1.0"
+authors = ["slug"]
+edition = "2018"
+
+[dependencies]
